@@ -1,0 +1,6 @@
+owner=369438156623183874
+prefix=V
+game=Dos Attack
+stayinchannel=true
+songinstatus=false
+token=NjQ3MzgxNTEwOTU3MTcwNjg4.Xde3Cg.NmFzGNYNk0rdl26OEhFBhGkEH5c
